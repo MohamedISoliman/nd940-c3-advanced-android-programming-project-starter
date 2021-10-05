@@ -11,4 +11,11 @@
     <string name="button_name">Click me</string>
     <string name="button_loading">We are loading </string>
     <string name="title_activity_detail">DetailActivity</string>
+    <string name="loading_app">LoadingApp</string>
+    <string name="retrofit">Retrofit - Http Client for Android and Java</string>
+    <string name="glide">Glide - Image loading library</string>
+    <string name="link_glide">https://github.com/bumptech/glide</string>
+    <string name="link_retrofit">https://github.com/square/retrofit</string>
+    <string name="link_loading_app">https://github.com/udacity/nd940-c3-advanced-android-programming-project-starter</string>
+    <string name="select_to_download">Please Select file to download</string>
 </resources>
